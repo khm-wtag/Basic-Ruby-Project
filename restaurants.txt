@@ -1,0 +1,9 @@
+Chiyong Shei	Chinese	1000
+Hot Tamale	Mexican	500
+Chang Pei	Chinese	500
+Madchef	Fast Food	500
+takeout	Fast Food	500
+Sultans Dine	Traditional	300
+Kacchi Bhai	Traditional	300
+Chillox	Fast Food	500
+Coffelime	Drinks	200
